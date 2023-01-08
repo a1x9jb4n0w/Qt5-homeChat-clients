@@ -1,6 +1,6 @@
 # homeChat-client
 
-TCP client - demo, ip 127.0.0.1
+TCP client - test, ip 127.0.0.1
 
 libs : Asio, Qt 5.15.2
 
